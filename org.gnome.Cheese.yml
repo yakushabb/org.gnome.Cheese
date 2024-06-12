@@ -92,3 +92,5 @@ modules:
           type: gnome
           name: cheese
           is-important: true
+      - type: patch
+        path: fix_appdata.patch
